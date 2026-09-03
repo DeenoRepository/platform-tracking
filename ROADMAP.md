@@ -16,7 +16,7 @@
 
 ## Phase 2: Domain Logic Migration (NEXT)
 - [x] **MIG-01-EPS**: Complete Electronic Passport System migration
-- [ ] **MIG-02-WMS**: Complete Warehouse & FIFO Stock management migration
+- [x] **MIG-02-WMS**: Complete Warehouse & FIFO Stock management migration
 - [ ] **MIG-03-MRO**: Complete Maintenance & Work Order lifecycle migration
 - [ ] **MIG-04-PRM**: Complete Procurement & Approval Matrix migration
 
