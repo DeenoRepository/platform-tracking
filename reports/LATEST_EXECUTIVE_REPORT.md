@@ -12,7 +12,7 @@ Generated: 2026-09-03 (Automated Sync)
 |---|---|---|---|
 | `platform-governance` | `80b14ac` | SUCCESS | 80% coverage gate, .cache/CURRENT_TASK.md auto-injection |
 | `platform-contracts` | `2b2b831` | SUCCESS | v1.1.0 on GitHub Packages |
-| `platform-shell` | `5242744` | SUCCESS | Microkernel, Redis EventBus, OutboxDispatcher, Strict CI |
+| `platform-shell` | `c4246a3` | SUCCESS | Microkernel, Redis EventBus, OutboxDispatcher, Strict CI |
 | `module-eps` | `c31a2e9` | SUCCESS | EquipmentAggregate with Outbox, 97.6% unit test coverage |
 | `module-wms` | `22a4ef4` | SUCCESS | StockAggregate with FIFO reservations |
 | `module-mro` | `b33a11f` | SUCCESS | WorkOrderAggregate lifecycle |
