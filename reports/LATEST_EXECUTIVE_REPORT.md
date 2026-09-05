@@ -12,12 +12,12 @@ Generated: 2026-09-03 (Automated Sync)
 |---|---|---|---|
 | `platform-governance` | `80b14ac` | SUCCESS | 80% coverage gate, .cache/CURRENT_TASK.md auto-injection |
 | `platform-contracts` | `2b2b831` | SUCCESS | v1.1.0 on GitHub Packages |
-| `platform-shell` | `7525e66` | SUCCESS | Microkernel, Redis EventBus, OutboxDispatcher, Strict CI |
+| `platform-shell` | `5242744` | SUCCESS | Microkernel, Redis EventBus, OutboxDispatcher, Strict CI |
 | `module-eps` | `c31a2e9` | SUCCESS | EquipmentAggregate with Outbox, 97.6% unit test coverage |
 | `module-wms` | `22a4ef4` | SUCCESS | StockAggregate with FIFO reservations |
 | `module-mro` | `b33a11f` | SUCCESS | WorkOrderAggregate lifecycle |
 | `module-prm` | `bddc984` | SUCCESS | PurchaseOrderAggregate approval flow |
-| `platform-distribution` | `bad385d` | SUCCESS | Docker Compose 50 users, PostgreSQL 16 schemas, SKIP LOCKED outbox |
+| `platform-distribution` | `3b43de6` | SUCCESS | Docker Compose 50 users, PostgreSQL 16 schemas, SKIP LOCKED outbox |
 | `platform-tracking` | Live | INITIAL | Central PMO and Ledger hub |
 
 ## 3. Recommended Next Decisions for the Project Lead
